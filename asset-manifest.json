@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://guidolarosa.github.io/csb-mstj79/static/css/main.e18d373d.chunk.css",
-    "main.js": "https://guidolarosa.github.io/csb-mstj79/static/js/main.43eda779.chunk.js",
-    "main.js.map": "https://guidolarosa.github.io/csb-mstj79/static/js/main.43eda779.chunk.js.map",
+    "main.js": "https://guidolarosa.github.io/csb-mstj79/static/js/main.2536137d.chunk.js",
+    "main.js.map": "https://guidolarosa.github.io/csb-mstj79/static/js/main.2536137d.chunk.js.map",
     "runtime-main.js": "https://guidolarosa.github.io/csb-mstj79/static/js/runtime-main.6e288e14.js",
     "runtime-main.js.map": "https://guidolarosa.github.io/csb-mstj79/static/js/runtime-main.6e288e14.js.map",
-    "static/js/2.02506ca7.chunk.js": "https://guidolarosa.github.io/csb-mstj79/static/js/2.02506ca7.chunk.js",
-    "static/js/2.02506ca7.chunk.js.map": "https://guidolarosa.github.io/csb-mstj79/static/js/2.02506ca7.chunk.js.map",
+    "static/js/2.c88a53a2.chunk.js": "https://guidolarosa.github.io/csb-mstj79/static/js/2.c88a53a2.chunk.js",
+    "static/js/2.c88a53a2.chunk.js.map": "https://guidolarosa.github.io/csb-mstj79/static/js/2.c88a53a2.chunk.js.map",
     "index.html": "https://guidolarosa.github.io/csb-mstj79/index.html",
     "static/css/main.e18d373d.chunk.css.map": "https://guidolarosa.github.io/csb-mstj79/static/css/main.e18d373d.chunk.css.map",
-    "static/js/2.02506ca7.chunk.js.LICENSE.txt": "https://guidolarosa.github.io/csb-mstj79/static/js/2.02506ca7.chunk.js.LICENSE.txt"
+    "static/js/2.c88a53a2.chunk.js.LICENSE.txt": "https://guidolarosa.github.io/csb-mstj79/static/js/2.c88a53a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6e288e14.js",
-    "static/js/2.02506ca7.chunk.js",
+    "static/js/2.c88a53a2.chunk.js",
     "static/css/main.e18d373d.chunk.css",
-    "static/js/main.43eda779.chunk.js"
+    "static/js/main.2536137d.chunk.js"
   ]
 }
